@@ -7,7 +7,7 @@ import {
 import Home from "./user/home";
 import Signin from "./user/signin";
 import Signup from "./user/signup";
-import Dashboard from "./user/dashboard copy 2";
+import Dashboard from "./user/dashboard";
 
 function App() {
   return (
